@@ -1,0 +1,9 @@
+1: There is a bunny thing on the screen which you can move around, its position is updated for other users/tabs when you move it.
+
+2: TypeScript is built off of JavaScript, but has much more strict type checking to ensure that many common JS errors/bugs do not occur from the way JS handles being given the wrong types, and keeps track of these types much more consistently.
+It also adds many quality of life improvements, many of which have also been implemented in JS due to being useful in TS, such as let and const variables, etc.
+
+3: Web application bundlers like Parcel are useful as they can automatically include all the necessary files, assets and dependencies within the web deployment of your application to ensure it all functions correctly when deployed.
+Parcel itself supports many different languages such as JavaScript, TypeScript, SASS and assets such as images and videos, and will automatically install dependencies for your code.
+
+4: 
