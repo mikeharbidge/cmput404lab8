@@ -6,4 +6,9 @@ It also adds many quality of life improvements, many of which have also been imp
 3: Web application bundlers like Parcel are useful as they can automatically include all the necessary files, assets and dependencies within the web deployment of your application to ensure it all functions correctly when deployed.
 Parcel itself supports many different languages such as JavaScript, TypeScript, SASS and assets such as images and videos, and will automatically install dependencies for your code.
 
-4: 
+4: Connecting: Socket has been created but the connection is not yet open.
+Open: The socket is connected and ready to communicate
+Closing: The socket is in the process of closing connection
+Closed: The connection is closed or could not be opened correctly.
+
+5: https://github.com/mikeharbidge/cmput404lab8.git
